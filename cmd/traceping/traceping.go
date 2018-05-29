@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/lixiangzhong/traceroute"
+	"github.com/jleader/traceping/pkg/traceroute"
 )
 
 func main() {
